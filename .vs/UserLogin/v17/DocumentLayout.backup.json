@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\UserLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\sellerpage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\sellerpage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\sellerpage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\sellerpage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Addcustomer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\next.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\next.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\qr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\next.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\next.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Welcome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Welcome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Addcustomer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Paymentc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Paymentc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLExpress/UserLogin/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Paymentc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Paymentc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\qr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Addcustomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\qr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\Welcome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26E6DD52-0983-46AC-9CA1-CE93D1190F81}|UserLogin\\UserLogin.vcxproj|solutionrelative:UserLogin\\LoginForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\User.h",
+              "RelativeDocumentMoniker": "UserLogin\\User.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\User.h",
+              "RelativeToolTip": "UserLogin\\User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T18:09:14.939Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "qr.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.cpp",
+              "RelativeDocumentMoniker": "UserLogin\\qr.cpp",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.cpp",
+              "RelativeToolTip": "UserLogin\\qr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T18:34:57.006Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "qr.h [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.h",
+              "RelativeDocumentMoniker": "UserLogin\\qr.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.h [Design]",
+              "RelativeToolTip": "UserLogin\\qr.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T18:35:16.35Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLExpress/UserLogin/True/SqlTable/dbo.users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLExpress/UserLogin/True/SqlTable/dbo.users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T20:06:39.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sellerpage.h",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\sellerpage.h",
+              "RelativeDocumentMoniker": "UserLogin\\sellerpage.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\sellerpage.h",
+              "RelativeToolTip": "UserLogin\\sellerpage.h",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAAC8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T13:42:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Addcustomer.h",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.h",
+              "RelativeDocumentMoniker": "UserLogin\\Addcustomer.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.h",
+              "RelativeToolTip": "UserLogin\\Addcustomer.h",
+              "ViewState": "AgIAABcBAAAAAAAAAAAwwCMBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-10T13:24:55.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sellerpage.h [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\sellerpage.h",
+              "RelativeDocumentMoniker": "UserLogin\\sellerpage.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\sellerpage.h [Design]*",
+              "RelativeToolTip": "UserLogin\\sellerpage.h [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T17:54:40.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "next.h [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\next.h",
+              "RelativeDocumentMoniker": "UserLogin\\next.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\next.h [Design]",
+              "RelativeToolTip": "UserLogin\\next.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T15:08:56.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.h",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.h",
+              "RelativeDocumentMoniker": "UserLogin\\LoginForm.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.h",
+              "RelativeToolTip": "UserLogin\\LoginForm.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAArwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T16:36:47.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "next.h",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\next.h",
+              "RelativeDocumentMoniker": "UserLogin\\next.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\next.h",
+              "RelativeToolTip": "UserLogin\\next.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T18:17:32.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Paymentc.h [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Paymentc.h",
+              "RelativeDocumentMoniker": "UserLogin\\Paymentc.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Paymentc.h [Design]",
+              "RelativeToolTip": "UserLogin\\Paymentc.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T19:19:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Paymentc.h",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Paymentc.h",
+              "RelativeDocumentMoniker": "UserLogin\\Paymentc.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Paymentc.h",
+              "RelativeToolTip": "UserLogin\\Paymentc.h",
+              "ViewState": "AgIAAJAAAAAAAAAAAAArwJwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T19:19:57.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "qr.h",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.h",
+              "RelativeDocumentMoniker": "UserLogin\\qr.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\qr.h",
+              "RelativeToolTip": "UserLogin\\qr.h",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T18:44:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.h",
+              "RelativeDocumentMoniker": "UserLogin\\LoginForm.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.h [Design]",
+              "RelativeToolTip": "UserLogin\\LoginForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T18:01:48.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Welcome.h",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.h",
+              "RelativeDocumentMoniker": "UserLogin\\Welcome.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.h",
+              "RelativeToolTip": "UserLogin\\Welcome.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-15T05:21:45.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Addcustomer.h [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.h",
+              "RelativeDocumentMoniker": "UserLogin\\Addcustomer.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.h [Design]",
+              "RelativeToolTip": "UserLogin\\Addcustomer.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-10T13:24:53.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Addcustomer.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.cpp",
+              "RelativeDocumentMoniker": "UserLogin\\Addcustomer.cpp",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Addcustomer.cpp",
+              "RelativeToolTip": "UserLogin\\Addcustomer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T16:52:23.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Welcome.h [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.h",
+              "RelativeDocumentMoniker": "UserLogin\\Welcome.h",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.h [Design]",
+              "RelativeToolTip": "UserLogin\\Welcome.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-15T05:06:25.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Source.cpp",
+              "RelativeDocumentMoniker": "UserLogin\\Source.cpp",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Source.cpp",
+              "RelativeToolTip": "UserLogin\\Source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T18:19:16.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Welcome.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.cpp",
+              "RelativeDocumentMoniker": "UserLogin\\Welcome.cpp",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\Welcome.cpp",
+              "RelativeToolTip": "UserLogin\\Welcome.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T05:05:43.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.cpp",
+              "RelativeDocumentMoniker": "UserLogin\\LoginForm.cpp",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\UserLogin\\UserLogin\\LoginForm.cpp",
+              "RelativeToolTip": "UserLogin\\LoginForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T18:18:24.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

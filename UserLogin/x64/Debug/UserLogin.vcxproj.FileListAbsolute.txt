@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.vcxproj.AssemblyReference.cache
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.Addcustomer.resources
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.add_property.resources
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.LoginForm.resources
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.next.resources
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.Paymentc.resources
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.qr.resources
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.sellerpage.resources
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.Welcome.resources
+C:\Users\asus\source\repos\UserLogin\UserLogin\x64\Debug\UserLogin.vcxproj.GenerateResource.cache
